@@ -1,0 +1,7 @@
+“up_to_date>root
+git add .
+git commit -m “How to be up to date in git”
+git push
+
+git commit -m  How to be up to date in git
+echo “up_to_date
